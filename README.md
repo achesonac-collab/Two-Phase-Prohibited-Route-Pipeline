@@ -39,31 +39,32 @@ Two-Phase-Prohibited-Route-Pipeline-1.0.0/
 
 ├── Main_Scripts/
 
-│   └── Two_Phase_Pipeline.m
+   └── Two_Phase_Pipeline.m
 
 ├── Core_Functions/
 
-│   ├── SPMC.m
+   ├── SPMC.m
 
-│   ├── ADBAMMODI.m
+   ├── ADBAMMODI.m
 
-│   ├── ADBAM.m
+   ├── ADBAM.m
 
-│   ├── find_loop_general.m
+   ├── find_loop_general.m
 
-│   └── export_results_to_tex.m
+   └── export_results_to_tex.m
 
 ├── Configuration_Files/
 
-│   ├── dims.m
+   ├── dims.m
 
-│   ├── bal.m
+   ├── bal.m
 
-│   ├── cost.m
+   ├── cost.m
 
-│   └── ISD.m
+   └── ISD.m
 
 └── Utilities/
+
     └── findjobj.m
     
 Note: The folder name uses hyphens. Add all subfolders
