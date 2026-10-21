@@ -32,24 +32,40 @@ REQUIREMENTS
 FOLDER STRUCTURE
 
 Two-Phase-Prohibited-Route-Pipeline-1.0.0/
+
 ├── LICENSE.txt
+
 ├── README.txt
+
 ├── Main_Scripts/
+
 │   └── Two_Phase_Pipeline.m
+
 ├── Core_Functions/
+
 │   ├── SPMC.m
+
 │   ├── ADBAMMODI.m
+
 │   ├── ADBAM.m
+
 │   ├── find_loop_general.m
+
 │   └── export_results_to_tex.m
+
 ├── Configuration_Files/
+
 │   ├── dims.m
+
 │   ├── bal.m
+
 │   ├── cost.m
+
 │   └── ISD.m
+
 └── Utilities/
     └── findjobj.m
-
+    
 Note: The folder name uses hyphens. Add all subfolders
 to the MATLAB path before running the pipeline.
 
