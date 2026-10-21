@@ -311,7 +311,7 @@ CITATION
 If you use this code, please cite:
 
 Acheson, V. (2026). Two-Phase Pipeline for Prohibited-Route Transportation Problems (Version v1.0.0) [Computer software].
-Zenodo. https://doi.org/10.5281/zenodo.23493305
+Zenodo. https://doi.org/10.5281/zenodo.23530813
 
 and the original two-phase method:
 
