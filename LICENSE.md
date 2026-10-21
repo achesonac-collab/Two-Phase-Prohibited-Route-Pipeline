@@ -1,7 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Valentine Acheson, Joseph Ackora-Prah, Emmanuel Owusu-Ansah, 
-Bright Emmanuel Owusu, Francis Cornelius Ennin, Nana Ansah Sarpong Abu
+Copyright (c) 2026 Valentine Acheson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
